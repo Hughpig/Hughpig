@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋\
+
+My personal AFDian: <https://afdian.com/a/hughpigqwq>
 
 <!--
 **Hughpig/Hughpig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
