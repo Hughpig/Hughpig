@@ -1,4 +1,4 @@
-## Hi there 👋\
+## Hi there 👋
 
 My personal AFDian: <https://afdian.com/a/hughpigqwq>
 
